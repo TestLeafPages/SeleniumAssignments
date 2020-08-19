@@ -1,0 +1,5 @@
+Classroom1:
+Create 3 classes 
+- Mobile (methods: sendMsg,makeCall,saveContact) , AndroidPhone (takeVideo), SmartPhone(connectWhatsApp)
+- AndroidPhone extends Mobile and SmartPhone extends AndroidPhone
+- Create object for SmartPhone and execute all the methods
