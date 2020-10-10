@@ -50,11 +50,11 @@ public class PrimeNumber {
 
 		
 
-		// Declare a boolean input as flag
+		// Declare a boolean variable flag as false
 
 		
 
-		// Iterate from 1 to half of the input
+		// Iterate from 2 to half of the input
 
 		
 
