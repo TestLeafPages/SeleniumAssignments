@@ -28,7 +28,6 @@ public class CreateLead {
 	 * 
 	 * 11. Select value as Pay Per Click Advertising in MarketingCampaignId Using SelectbyValue
 	 * 
-	 * 12. Select value as Telecommunications from the bottom (size-2) in Industry using SelectByIndex
 	 * 
 	 * 13. Select value as Corporation in OwnerShip field Using SelectbyIndex
 	 * 
