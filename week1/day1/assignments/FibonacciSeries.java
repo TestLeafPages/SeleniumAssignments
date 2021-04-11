@@ -27,7 +27,7 @@ public class FibonacciSeries {
 
 		// Assign second number to the first number
 
-		// Assign first number to the sum
+		// Assign sum to the second number
 		
 		// print sum
 
