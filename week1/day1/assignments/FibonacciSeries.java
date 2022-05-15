@@ -18,10 +18,18 @@ public class FibonacciSeries {
 	public static void main(String[] args) {
 
 		// initialize 3 int variables (Tip: range = 8, firstNum = 0, secNum = 1, sum in the series)
+		int n1=0,n2=1,n3,i,count=10;
 
 		// Print first number
+		system.out.println(n1+" "+n2);
 		
 		// Iterate from 1 to the range
+		for(i=2;i<count;++i){
+			n1=n1+n2;
+		system.out.println(" "+n3);	
+			n1=n2;
+			n2=n1;
+		}
 		
 		// add first and second number assign to sum
 
