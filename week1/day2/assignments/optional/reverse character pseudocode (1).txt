@@ -1,0 +1,36 @@
+              //Declare a string input
+		String input = "de12ef35777777yu";
+		
+		//declare two empty strings as reverse and final 
+		String reverse = "";
+		String finput = "";
+		//Initialize an int variable j=0
+		int j =0;
+		//retrieve the alphabets from the input string,
+		
+		//iterate with reverse for loop and store it in the  variable reverse
+		
+		//break string input into charArray
+		
+		
+		//iterate the charArray in for loop
+		
+		
+			//use if condition to check whether the charArray has alphabets
+			
+				//if the character is an alphabet 
+				//then add each character from the  reverse variable to the finput variable
+				
+				//increase the variable j
+				
+				//use else condition
+			
+				//add the character from charArray to the fin variable
+				
+			
+			
+
+			
+		//print the fin variable
+		
+		
