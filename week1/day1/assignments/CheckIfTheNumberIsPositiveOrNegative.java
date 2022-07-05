@@ -2,6 +2,8 @@ package week1.day1;
 
 public class CheckIfTheNumberIsPositiveOrNegative {
 public static void main(String[] args) {
+	
+	//Problem statement: Check if the number is positive or negative
 	/*Pseudocode
 	 * : ---------- 
 	 * 1. Initialize a number, say, int number= 35; 
