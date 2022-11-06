@@ -17,9 +17,9 @@ public class PrintDuplicatesInArray {
 			
 					// compare both the loop variables & check they're equal
 				
-							// increase the count if both the arrays are equal
+							// print the matching value
 					
-			// Out of the inner loop, check and print the first array variable if count is more than 0
+			
 			
 			
 		
