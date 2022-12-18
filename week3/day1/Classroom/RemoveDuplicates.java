@@ -4,7 +4,7 @@ public class RemoveDuplicates {
 
 	public static void main(String[] args) {		
 		
-//		Declare a String as PayPal India
+//		Declare a String as "PayPal India"
 
 //		Convert it into a character array
 
