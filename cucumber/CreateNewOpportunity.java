@@ -7,7 +7,7 @@ public class CreateNewOpportunity {
 	 * 1. Login to https://login.salesforce.com 
 	 * 2. Click on toggle menu button from the left corner 
 	 * 3. Click view All and click Sales from App Launcher
-	 * 4. Click on Opportunity tab 
+	 * 4. Click on Opportunities tab 
 	 * 5. Click on New button 
 	 * 6. Enter Opportunity name as 'Salesforce Automation by *Your Name*,Get the text and
 	 * Store it
