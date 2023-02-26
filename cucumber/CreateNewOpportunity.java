@@ -12,7 +12,7 @@ public class CreateNewOpportunity {
 	 * 6. Enter Opportunity name as 'Salesforce Automation by *Your Name*,Get the text and
 	 * Store it
 	 * 7. Choose close date as Today 
-	 * 8. Select 'Stage' as Need Analysis
+	 * 8. Select 'Stage' as Needs Analysis
 	 * 9. click Save and VerifyOppurtunity Name"
 	 */
 	
