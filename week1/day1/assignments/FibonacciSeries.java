@@ -1,36 +1,35 @@
-package week1.day1.assignments;
+package week1.day1;
 
-public class FibonacciSeries {
 
-	/*
-	 * Goal: To find Fibonacci Series for a given range
-	 * 
-	 * input(range): 8 output: 0, 1, 1, 2, 3, 5, 8, 13
-	 * 
-	 * Shortcuts: 1) Print : type: syso, followed by: ctrl + space + enter 2) To
-	 * create a 'for' loop: type 'for', followed by ctrl + space + down arrow +
-	 * enter
-	 * 
-	 * What are my learnings from this code? 1) 2) 3)
-	 * 
-	 */
+public class Fibonacciseries {
+
+
 
 	public static void main(String[] args) {
 
-		// initialize 3 int variables (Tip: range = 8, firstNum = 0, secNum = 1, sum in the series)
+		int Firstnumber=0;
+		int secondnumber = 1;		
+		int range=8;
+		int sum=0;
 
-		// Print first number
+		System.out.println(Firstnumber);
 		
-		// Iterate from 1 to the range
-		
-		// add first and second number assign to sum
+		for (Firstnumber = 1; Firstnumber <=range; Firstnumber++) {	
+			
+			Firstnumber=secondnumber;
 
-		// Assign second number to the first number
+			secondnumber=sum;
 
-		// Assign sum to the second number
-		
-		// print sum
+			sum=Firstnumber+secondnumber;			
+
+			System.out.println(sum);
+
+		}
 
 	}
 
 }
+
+
+
+
